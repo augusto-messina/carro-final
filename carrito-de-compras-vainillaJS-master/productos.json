@@ -1,0 +1,14 @@
+[
+    {"id":1, "nombre":"Zapatillas Palermo FC", "cuotas":"9 cuotas sin interes ", "precio":137.999, "img":"imagenes/zapatillas/pumas-palermo.jpg"},
+    {"id":2, "nombre":"Vans Knu Skool", "cuotas":"9 cuotas sin interes ", "precio":188.999, "img":"imagenes/zapatillas/vans-knu.jpg"},
+    {"id":3, "nombre":"Air Jordan 4 Retro", "cuotas":"9 cuotas sin interes ", "precio":359.999, "img":"imagenes/zapatillas/jordan-4-roja.jpg"},
+    {"id":4, "nombre":"Nike Dunk High Retro SE", "cuotas":"9 cuotas sin interes ", "precio":207.999, "img":"imagenes/zapatillas/dunk-altas.jpg"},
+    {"id":5, "nombre":"Buzo all szn 3 tiras", "cuotas":"10% de descuento", "precio":85.999, "img":"imagenes/modelos/buzo-azul-adidas.jpg"},
+    {"id":6, "nombre":"Rompevientos adidas", "cuotas":"6 cuotas sin interes ", "precio":109.999, "img":"imagenes/modelos/campera-adidas-muj.jpg"},
+    {"id":7, "nombre":"Short Tiro", "cuotas":"40% de descuento", "precio":34.299, "img":"imagenes/modelos/short-adidas.jpg"},
+    {"id":8, "nombre":"Calza 7/8 Favorite", "cuotas":"6 cuotas sin interes ", "precio":54.999, "img":"imagenes/modelos/calza-puma.jpg"},
+    {"id":9, "nombre":"adidas Morral ac round","cuotas":"10% de descuento","precio":35.999, "img":"imagenes/accesorios-mo/cartera-adidas.jpg"},
+    {"id":10, "nombre":"Curved Structured","cuotas":"10% de descuento", "precio":45.999, "img":"imagenes/accesorios-mo/gorra-lev.jpg"},
+    {"id":11, "nombre":"Nike Sportswear Essentia","cuotas":"10% de descuento","precio":22.991, "img":"imagenes/accesorios-mo/medias-nike.jpg"},
+    {"id":12, "nombre":"Nike Academy Team", "cuotas":"6 cuotas sin interes ", "precio":83.999, "img":"imagenes/accesorios-mo/bolso-nike.jpg"}
+]
